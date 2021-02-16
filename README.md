@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @danlordy
+- 👀 I am interested in programming in Vue and vuetify
+- 🌱 I am currently learning ... Vue, javascript, bootstrap and vuetify
+- 💞️ I am looking to collaborate in ... projects that can help humanity
+   - 📫 How to contact me ... in the email dany.herrerataveras36@hotmail.com 
